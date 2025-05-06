@@ -194,7 +194,12 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <blockquote>
+    <p style="font-size:1.15rem; color:#FFAB00;">🎸 <i>
+      Jay Commited Sucide, Brandon OD and Died. What the hell is going on? Cruelest dream reality
+    </i> 🎸</p>
+    <p><b>— The Offspring : The Kids Aren't Allright</b></p>
+  </blockquote>
 </div>
 
 <br>
