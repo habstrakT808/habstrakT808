@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;I'm+Hafiyan+Al+Muqaffi;Machine+Learning+Expert;Data+Engineer;Full+Stack+Dev" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <a href="https://github.com/habstrakT808">
-    <img src="https://komarev.com/ghpvc/?username=habstrakT808&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/pac.gif" width="100" alt="Pacman">
   <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
@@ -20,6 +14,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
 </p>
+
+<div align="center">
+  <a href="https://github.com/habstrakT808">
+    <img src="https://komarev.com/ghpvc/?username=habstrakT808&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
