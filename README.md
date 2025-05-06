@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Hafiyan+Al+Muqaffi;Machine+Learning+Expert;Data+Engineer;Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;I'm+Hafiyan+Al+Muqaffi;Machine+Learning+Expert;Data+Engineer;Full+Stack+Dev" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <a href="https://github.com/habstrakT808">
+    <img src="https://komarev.com/ghpvc/?username=habstrakT808&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/pac.gif" width="100" alt="Pacman">
@@ -9,12 +15,6 @@
   <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
   <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
 </p>
-
-<div align="center">
-  <a href="https://github.com/habstrakT808">
-    <img src="https://komarev.com/ghpvc/?username=habstrakT808&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
-  </a>
-</div>
 
 <!-- Profile Banner -->
 <p align="center">
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **About Me**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -43,7 +43,9 @@ class DataEngineer:
         }
         self.interests = ["MMA", "Muay Thai", "Jiu Jitsu", "Wrestling", 
                         "Karate", "Basketball", "Futsal", "Billiards", 
-                        "Swimming", "Running"]
+                        "Swimming", "Running", "Music Enthusiast",
+                        "Guitar Enthusiast", "Motorbike Enthusiast",
+                        "Computer Enthusiast"]
         self.career_goal = "Becoming a Data Engineer at a renowned company"
     
     def say_hi(self):
@@ -149,18 +151,24 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
 
 <div align="center">
+  <a href="https://github.com/habstrakT808" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/habstrakt808/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://open.spotify.com/user/cozqqcizpzylaouf7iryu29yr?si=46e72806795b45c7" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
   <a href="https://www.instagram.com/hafiyan_a_u/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jhodywiraputra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/hafiyan-al-muqaffi-umary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
 
-## <img src="https://media.giphy.com/media/y7KxidaNdM0H6/giphy.gif" width="30"> **Martial Arts & Sports**
+## <img src="https://media.giphy.com/media/y7KxidaNdM0H6/giphy.gif" width="30"> **Hobbies & Interests**
 
 <div align="center">
   <p>
@@ -177,20 +185,31 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Swimming-0288D1?style=for-the-badge&logo=swimming&logoColor=white" alt="Swimming" />
     <img src="https://img.shields.io/badge/Running-2E7D32?style=for-the-badge&logo=running&logoColor=white" alt="Running" />
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/Music_Enthusiast-9C27B0?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Enthusiast" />
+    <img src="https://img.shields.io/badge/Guitar_Enthusiast-795548?style=for-the-badge&logo=applemusic&logoColor=white" alt="Guitar Enthusiast" />
+    <img src="https://img.shields.io/badge/Motorbike_Enthusiast-F44336?style=for-the-badge&logo=yamaha&logoColor=white" alt="Motorbike Enthusiast" />
+    <img src="https://img.shields.io/badge/Computer_Enthusiast-283593?style=for-the-badge&logo=pcgamingwiki&logoColor=white" alt="Computer Enthusiast" />
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/habstrakT808">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-</p>
+<div align="center">
+  <h2>✨ Thanks for visiting my profile! ✨</h2>
+</div>
 
-<!-- Made with ❤️ by Claude -->
+<!-- Pacman Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/pac.gif" width="100" alt="Pacman">
+  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
+</div>
+
+<br>
