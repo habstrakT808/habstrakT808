@@ -204,13 +204,10 @@ me.say_hi()
 
 <br>
 
-<!-- Pacman Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/pacman.gif" width="100" alt="Pacman">
-  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
+<!-- Snake Animation -->
+<div align="center"> 
+
+![snake gif](https://github.com/habstrakT808/habstrakT808/blob/output/github-snake-dark.svg)
 </div>
 
 <div align="center">
