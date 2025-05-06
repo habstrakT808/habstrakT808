@@ -193,6 +193,9 @@ me.say_hi()
   </p>
 </div>
 
+<!-- Spacer for better visual separation -->
+<br>
+<br>
 <div align="center">
   <blockquote>
     <p style="font-size:1.15rem; color:#FFAB00;">🎸 <i>
@@ -205,9 +208,9 @@ me.say_hi()
 <br>
 
 <!-- Snake Animation -->
-<div align="center"> 
-
-![snake gif](https://github.com/habstrakT808/habstrakT808/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/habstrakT808/habstrakT808/blob/output/github-snake-dark.svg)
 </div>
 
 <div align="center">
