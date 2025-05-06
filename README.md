@@ -204,17 +204,16 @@ me.say_hi()
 
 <br>
 
+<!-- Pacman Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/pacman.gif" width="100" alt="Pacman">
+  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
+  <img src="https://raw.githubusercontent.com/kik4/pacman-readme/main/ghost.gif" width="50" alt="Ghost">
+</div>
+
 <div align="center">
   <h2>✨ Thanks for visiting my profile! ✨</h2>
 </div>
 
-<!-- Pacman Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/pac.gif" width="100" alt="Pacman">
-  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
-  <img src="https://raw.githubusercontent.com/pheralb/pheralb/master/images/ghost.gif" width="50" alt="Ghost">
-</div>
-
-<br>
