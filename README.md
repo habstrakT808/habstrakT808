@@ -109,7 +109,7 @@ me.say_hi()
       <td width="50%">
         <h3 align="center">Web Scraping Fashion Studio</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/web-scraping-fashion" target="_blank">
+          <a href="https://github.com/habstrakT808/ETL---Fashion-Studio-Store.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <p align="center">Automated data collection from fashion websites with ETL pipeline</p>
@@ -118,7 +118,7 @@ me.say_hi()
       <td width="50%">
         <h3 align="center">Image Classification System</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/image-classification" target="_blank">
+          <a href="https://github.com/habstrakT808/Intel-Image-Classification.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-00C853?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <p align="center">CNN-based deep learning model for image categorization</p>
@@ -129,7 +129,7 @@ me.say_hi()
       <td width="50%">
         <h3 align="center">House Price Prediction</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/house-price-prediction" target="_blank">
+          <a href="https://github.com/habstrakT808/Prediksi-Harga-Rumah-dengan-Machine-Learning.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-5D4037?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <p align="center">ML model to forecast real estate prices with advanced feature engineering</p>
@@ -138,7 +138,7 @@ me.say_hi()
       <td width="50%">
         <h3 align="center">E-commerce Website</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/laravel-ecommerce" target="_blank">
+          <a href="https://github.com/habstrakT808/COMPUTER-E-COMMERCE-WITH-PHP-MVC.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-FF5252?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <p align="center">Full-featured online store built with Laravel framework</p>
