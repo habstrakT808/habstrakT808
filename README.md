@@ -107,41 +107,41 @@ me.say_hi()
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Web Scraping Fashion Studio</h3>
+        <h3 align="center">Laravel Based E-Learning Website</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/ETL---Fashion-Studio-Store.git" target="_blank">
+          <a href="https://github.com/habstrakT808/E-Learning-Platform.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <p align="center">Automated data collection from fashion websites with ETL pipeline</p>
+          <p align="center">Fully functioned e-learning website based on laravel.</p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Image Classification System</h3>
+        <h3 align="center">Flutter And Laravel Based TATA Apps</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/Intel-Image-Classification.git" target="_blank">
+          <a href="https://github.com/habstrakT808/TATA-apps.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-00C853?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <p align="center">CNN-based deep learning model for image categorization</p>
+          <p align="center">Fully functioned mobile application with flutter and Laravel website.</p>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">House Price Prediction</h3>
+        <h3 align="center">Flask And React Based Meal Mind</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/Prediksi-Harga-Rumah-dengan-Machine-Learning.git" target="_blank">
+          <a href="https://github.com/habstrakT808/Meal-Mind.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-5D4037?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <p align="center">ML model to forecast real estate prices with advanced feature engineering</p>
+          <p align="center">Fully functioned diet website with machine learning algorithm.</p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">E-commerce Website</h3>
+        <h3 align="center">NEXT JS Based E-commerce Website</h3>
         <p align="center">
-          <a href="https://github.com/habstrakT808/COMPUTER-E-COMMERCE-WITH-PHP-MVC.git" target="_blank">
+          <a href="https://github.com/habstrakT808/Website-Online-Store-dengan-Next-JS-STORE-.git" target="_blank">
             <img src="https://img.shields.io/badge/CODE-FF5252?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <p align="center">Full-featured online store built with Laravel framework</p>
+          <p align="center">Fully functioned e commerce with many technology implemented.</p>
         </p>
       </td>
     </tr>
